@@ -5,13 +5,13 @@ https://gueilinwang.github.io/Drink-Order-Machine/
 
 ## Order
 
--Choose at least one drink.
--Choose ice. (default regular)
--Choose sugar. (default regular)
--Add button (Create a drink object to the order list)
+- Choose at least one drink.
+- Choose ice. (default regular)
+- Choose sugar. (default regular)
+- Add button (Create a drink object to the order list)
 
 ## Checkout
 
--Order at least one drink.
--calculate the total amount of drinks.
--calculate the total sum of drinks.
+- Order at least one drink.
+- calculate the total amount of drinks.
+- calculate the total sum of drinks.
