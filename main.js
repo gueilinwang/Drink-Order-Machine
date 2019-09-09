@@ -80,6 +80,7 @@
     // 2. 如果沒有選擇飲料品項，跳出提示
     if (!drinkName) {
       alert('Please choose at least one item.')
+      return
     }
     // 3. 建立飲料實例，並取得飲料價格
     const drink = new Drink(drinkName, ice, sugar)
